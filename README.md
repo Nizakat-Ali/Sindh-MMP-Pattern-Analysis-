@@ -16,8 +16,7 @@ An interactive web dashboard for analyzing migration patterns and mobility profi
 
 ```
 ├── app.py                      # Main Streamlit dashboard
-├── HelloWorld.py               # Static analysis script
-├── coffee_machine.py           # Coffee machine CLI simulator
+├── MMP_Analysis.py             # Static analysis script
 ├── requirements.txt            # Python dependencies
 ├── Sindh MMP Analysis.xlsx     # Input data file
 └── outputs/                    # Generated visualizations
@@ -103,5 +102,5 @@ Input Excel file requires:
 MIT
 
 ## Author
-
+Nizakat Ali Data Scientist
 Created for analyzing migration patterns in Sindh, Pakistan
